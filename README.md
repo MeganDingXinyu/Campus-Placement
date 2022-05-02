@@ -5,3 +5,5 @@ www.kaggle.com/benroshan/factors-affecting-campus-placement. More information
 about education system in India can be found at the link https://wenr.wes.org/2018/09/
 education-in-india. 
 
+#Dashboard
+http://127.0.0.1:8050/
